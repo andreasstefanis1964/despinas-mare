@@ -2004,18 +2004,7 @@ strong {
   padding-top: 7rem;
   padding-bottom: 7rem;
   overflow: hidden;
-  background-color: #ffffff;
-}
-.cid-u3ewPqQxWT .two__background:before {
-  content: '';
-  position: absolute;
-  top: 0;
-  right: 0;
-  max-width: 49%;
-  width: 100%;
-  height: 100%;
-  background-color: #cce4f0;
-  z-index: 0;
+  background-color: #7bc3d5;
 }
 .cid-u3ewPqQxWT .slider__content {
   padding-top: 52px;
@@ -2037,7 +2026,7 @@ strong {
   z-index: -1;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("../../../assets/images/aap-fav-200x200.png");
+  background-image: url("../../../assets/images/logo-despinasmare-102x90.png");
 }
 .cid-u3ewPqQxWT .mbr-section-title {
   margin-bottom: 33px;
