@@ -2538,6 +2538,18 @@ strong {
 .cid-u3jop4NEb7 input::-webkit-calendar-picker-indicator {
   display: none;
 }
+#custom-html-10 {
+  /* Type valid CSS here */
+}
+#custom-html-10 div {
+  padding: 80px 0;
+  color: #2a66b1;
+  text-align: center;
+}
+#custom-html-10 p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-u3jvdA8Z78 {
   padding-top: 3rem;
   padding-bottom: 3rem;
