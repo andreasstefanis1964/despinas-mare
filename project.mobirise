@@ -74,9 +74,9 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
-        "header_custom": "",
+        "title": "Despinas Mare Hotel in Paros Naoussa",
+        "meta_descr": "Amazing Vacations in Paros Naoussa only 50 meters from Beach",
+        "header_custom": "<meta name=\"google-site-verification\" content=\"WCGpZm-hcdEl5Eh59f6TJKHaQdWOo9tjhD0IocWwuko\" />",
         "footer_custom": "",
         "html_before": ""
       },
