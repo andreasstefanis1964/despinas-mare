@@ -773,8 +773,12 @@ strong {
   border-color: #fa7e26 !important;
   color: #e3ebf3 !important;
 }
-.cid-ty20H9zv1J .navbar-dropdown {
-  position: absolute !important;
+.cid-ty20H9zv1J {
+  z-index: 1000;
+  width: 100%;
+}
+.cid-ty20H9zv1J nav.navbar {
+  position: fixed;
 }
 .cid-ty20H9zv1J .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1123,6 +1127,7 @@ strong {
 }
 .cid-ty20H9zv1J .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-ty20H9zv1J a.nav-link {
   display: flex;
