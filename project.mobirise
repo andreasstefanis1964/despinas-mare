@@ -53,7 +53,7 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/logo-despinasmare-102x90.png",
-    "mbrsiteDomain": "adv1s9rvkd",
+    "mbrsiteDomain": "oauxyn5h7d",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -923,7 +923,7 @@
                 "overlay": false,
                 "contentAlign": "right",
                 "text": "Welcome in Despinas Mare Hotel <br>in Naoussa (Paros island)",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"https://ibe.channex.io/online-booking-helliniko-hotel\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK ONLINE</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-info\" data-app-placeholder=\"Type Text\" href=\"https://book.roompanda.com/despinasmare\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK ONLINE</a> ",
                 "overlayColor": "#8e97a1"
               },
               {
