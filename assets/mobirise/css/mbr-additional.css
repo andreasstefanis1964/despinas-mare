@@ -693,6 +693,7 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.5;
 }
+html,
 body {
   overflow-x: hidden;
 }
@@ -772,6 +773,11 @@ strong {
   background: #fa7e26 !important;
   border-color: #fa7e26 !important;
   color: #e3ebf3 !important;
+}
+*:focus-visible {
+  outline: red solid 2px !important;
+  outline-offset: 2px !important;
+  transition: outline 0.2s ease-in-out;
 }
 .cid-ty20H9zv1J {
   z-index: 1000;
